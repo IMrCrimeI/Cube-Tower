@@ -1,2 +1,2 @@
 # Cube-Tower
-I created my first game
+A game, where you need to build a tower from cubes
